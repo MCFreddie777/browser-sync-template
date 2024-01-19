@@ -1,0 +1,10 @@
+{
+  "name": "browser-sync-template",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "browser-sync start --config browser-sync.js"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}
